@@ -3,7 +3,6 @@ O objetivo deste projeto é migrar um sistema legado que utiliza o SQL Server pa
 
 Claro! Aqui está um arquivo README.md descritivo para o seu projeto:
 
-```markdown
 # Migração de Banco de Dados SQL Server para Azure SQL Database
 
 ## Descrição
@@ -98,6 +97,3 @@ Sinta-se à vontade para contribuir com este projeto abrindo issues e pull reque
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-```
-
-Você pode adaptar conforme necessário para atender às suas necessidades específicas.
